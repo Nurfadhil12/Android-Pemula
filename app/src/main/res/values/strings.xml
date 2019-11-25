@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">KOTA PULAU JAWA</string>
+    <string-array name="destination_name">
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Semarang</item>
+        <item>Solo</item>
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Jogja</item>
+        <item>Magelang</item>
+        <item>Bogor</item>
+        <item>Wonosobo</item>
+    </string-array>
+    <array name="destination_image">
+        <item>@drawable/bandung</item>
+        <item>@drawable/jakarta</item>
+        <item>@drawable/semarang</item>
+        <item>@drawable/solo</item>
+        <item>@drawable/surabaya</item>
+        <item>@drawable/malang</item>
+        <item>@drawable/jogja</item>
+        <item>@drawable/magelang</item>
+        <item>@drawable/bogor</item>
+        <item>@drawable/wonosbo</item>
+    </array>
+    <string-array name="destination_info">
+        <item>Bandung Kota Bandung merupakan kota metropolitan terbesar di Provinsi Jawa Barat, sekaligus menjadi ibu kota provinsi tersebut. Kota ini terletak 140 km sebelah tenggara Jakarta, dan merupakan kota terbesar ketiga di Indonesia setelah Jakarta dan Surabaya menurut jumlah penduduk. Selain itu, Kota Bandung juga merupakan kota terbesar di wilayah Pulau Jawa bagian selatan. Sedangkan wilayah Bandung Raya merupakan metropolitan terbesar ketiga di Indonesia setelah Jabodetabek dan Gerbangkertosusila.</item>
+        <item>Jakarta Berbicara mengenai Jakarta, maka tak akan ada habisnya. Kota ini seperti kata banyak orang, adalah sebagai kota 24 jam. Ia tak mengenal waktu, semua kegiatan terus berjalan. Dengan julukan seperti itu, membuat Jakarta memiliki sisi positif dan negatif. Positifnya adalah, ketika tengah malam, misalnya saat lapar, kita bisa membeli makan. Sebaliknya, jika tak ada hentinya, maka kota ini terlalu bising. Itulah contoh sederhananya. </item>
+        <item>Semarang Semarang adalah ibukota Provinsi Jawa Tengah, Indonesia sekaligus kota metropolitan terbesar kelima di Indonesia sesudah Jakarta, Surabaya, Bandung, dan Medan.[2] Sebagai salah satu kota paling berkembang di Pulau Jawa, Kota Semarang mempunyai jumlah penduduk yang hampir mencapai 2 juta jiwa dan siang hari bisa mencapai 2,5 juta jiwa. Bahkan, Area Metropolitan Kedungsapur (Kendal, Demak, Ungaran Kabupaten Semarang, Kota Salatiga, dan Purwodadi Kabupaten Grobogan) dengan penduduk sekitar 6 juta jiwa, merupakan Wilayah Metropolis terpadat keempat, setelah Jabodetabek (Jakarta), Gerbangkertosusilo (Surabaya), dan Bandung Raya. Dalam beberapa tahun terakhir, perkembangan Semarang ditandai pula dengan munculnya beberapa gedung pencakar langit di beberapa sudut kota.</item>
+        <item>Solo Surakarta atau yang kerap disebut Solo merupakan salah satu kota di Jawa Tengah yang dikenal sebagai kota budaya. Selain tradisinya yang masih kental, Solo juga memiliki potensi wisata yang cukup besar. Destinasi wisata unggulan di Solo, berupa sejarah hingga budaya yang sayang untuk dilewatkan ketika berkunjung ke Solo. </item>
+        <item>Surabaya Surabaya merupakan pelabuhan utama dan pusat perdagangan komersial di wilayah timur Indonesia, dan sekarang menjadi salah satu kota terbesa di Asia Tenggara. Bersama dengan Lamongan di barat laut, Gresik di barat, Bangkalan di timur laut, Sidoarjo di selatan, Mojokerto dan Jombang di barat daya menjadi kesatuan yang dinamakan Gerbang Kertosusila, seperti Jabodetabek di Jakarta dan sekitarnya.</item>
+        <item>Malang Malang adalah salah satu kabupaten dan kota di Jawa Timur yang terletak di dataran tinggi, berjarak 90 Km dari Kota Surabaya. Karena letaknya yang tinggi, kota ini memiliki udara yang sejuk dan nyaman untuk dikunjungi.Malang merupakan kota terbesar kedua di Jawa Timur setelah Surabaya, dan dikenal dengan julukan kota pelajar, atau banyak juga yang menjuluki sebagai Kota Bunga. Tidak bisa dipungkiri, karena lokasi alam yang dingin serta banyak lahan yang masih hijau, kota Malang pantas pula di juluki sebagai Kota Bunga. Disamping itu, beberapa obyek dengan tema agrowisata banyak dijumpai di Malang.</item>
+        <item>Jogja Daerah Istimewa Yogyakarta (atau Jogja, Yogya, Yogyakarta, Jogjakarta dan seringkali disingkat DIY) adalah sebuah provinsi di Indonesia yang terletak di bagian selatan Pulau Jawa dan berbatasan dengan Provinsi Jawa Tengah di sebelah utara. Secara geografis Yogyakarta terletak di pulau Jawa bagian Tengah. Daerah tersebut terkena bencana gempa pada tanggal 27 Mei 2006 yang mengakibatkan 1,2 juta orang tidak memiliki rumah.Provinsi DI. Yogyakarta memiliki lembaga pengawasan pelayanan umum bernama Ombudsman Daerah Yogyakarta yang dibentuk dengan Keputusan Gubernur DIY. Sri Sultan HB X pada tahun 2004.</item>
+        <item>Magelang Kota Magelang mengawali sejarahnya sebagai desa perdikan Mantyasih, yang saat ini dikenal dengan Kampung Metesehdi Kelurahan Magelang. Mantyasih sendiri memiliki arti beriman dalam Cinta Kasih. Di kampung Meteseh saat ini terdapat sebuah lumpang batu yang diyakini sebagai tempat upacara penetapan Sima atau Perdikan.Untuk menelusuri kembali sejarah Kota Magelang, sumber prasasti yang digunakan adalah Prasasti POH, Prasasti GILIKAN dan Prasasti MANTYASIH. Ketiganya merupakan parsasti yang ditulis diatas lempengan tembaga.</item>
+        <item>Bogor Bogor ditilik dari sejarahnya adalah tempat berdirinya Kerajaan Hindu Tarumanagara di abad kelima. Beberapa kerajaan lainnya lalu memilih untuk bermukim di tempat sing sama dikarenakan daerah pegunungannya sing secara alamiah membuat lokasi iki mudah untuk bertahan terhadap ancaman serangan, dan disaat sing sama adalah daerah sing subur serta memiliki akses sing mudah pada sentra-sentra perdagangan saat itu. Namun hingga kiki, berdasarkan penelitian sing dilakukan oleh beberapa arkeolog ternama seperti Prof. Uka Tjandrasasmita, keberadaan tepat dan situs penting sing menyatakan eksistensi kerajaan tersebut, hingga kiki masih belum ditemukan bukti otentiknya. </item>
+        <item>Wonosobo  Wonosobo merupakan kabupaten dengan pemandangan pegunungan yang indah karena diapit dua gunung muda yang masih aktif, yakni Gunung Sindoro dan Gunung Sumbing dengan tinggi lebih dari 3000 mdpl.Letaknya yang strategis dan berada di daerah pegunungan membuat Wonosobo menjadi kabupaten dengan potensi ekonomi, wisata, dan pertanian yang begitu besar dengan tanahnya yang subur dan terjaga kelestariannya.Potensi wisata yang lengkap seperti wisata alam, religi, budaya, kuliner, wisata buatan hingga wisata minat khusus, membuat julukan kota wisata sangat melekat pada Kabupaten Wonosobo yang pada tahun 2014 ini berusia 189 tahun.</item>
+    </string-array>
+</resources>
